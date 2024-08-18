@@ -1,1 +1,2 @@
-socks5://proxy-server:1080
+https://proxy-server:8080
+http://proxy-server:8080
